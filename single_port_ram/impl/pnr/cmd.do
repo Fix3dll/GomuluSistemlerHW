@@ -1,0 +1,10 @@
+-d C:\Users\Fix3d\Documents\GomuluProgramlama\single_port_ram\impl\gwsynthesis\single_port_ram.vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cfg C:\Users\Fix3d\Documents\GomuluProgramlama\single_port_ram\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
